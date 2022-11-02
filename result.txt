@@ -1,0 +1,64 @@
+Execution time minStops: 0.0007103
+653
+61
+Execution time minDistance: 0.0007153
+From Baker Street to North Wembley in 6 stops and 8.28619868659425 miles
+
+Execution time minStops: 0.0021649
+653
+85
+Execution time minDistance: 0.0008709
+From Epping to Belsize Park in 17 stops and 20.649558536182322 miles    
+
+Execution time minStops: 0.0047615
+653
+90
+Execution time minDistance: 0.0011898
+From Canonbury to Balham in 10 stops and 8.840160762655128 miles
+
+Execution time minStops: 0.0008097
+653
+43
+Execution time minDistance: 0.0005405
+From Vauxhall to Leytonstone in 6 stops and 8.844441240066589 miles
+82.55387847930878
+121612
+82.55387847930878
+
+
+Station list ['Abbey Road', 'Barbican', 'Bethnal Green', 'Cambridge Heath', 'Covent Garden', 'Dollis Hill', 'East Finchley', 'Finchley Road and Frognal', 'Great Portland Street', 'Hackney Wick', 'Isleworth', 'Kentish Town West', 'Leyton', 'Marble Arch', 'North Wembley', 'Old Street', 'Pimlico', 'Queens Park', 'Richmond', 'Shepherds Bush', 'Tottenham Hale', 'Uxbridge', 'Vauxhall', 'Wapping']
+New station line ['Uxbridge', 'Isleworth', 'Richmond', 'Shepherds Bush', 'Queens Park', 'Finchley Road and Frognal', 'Kentish Town West', 'Great Portland Street', 'Marble Arch', 'Pimlico', 'Vauxhall', 'Covent Garden', 'Barbican', 'Old Street', 'Wapping', 'Bethnal Green', 'Cambridge Heath', 'Hackney Wick', 'Abbey Road', 'Leyton', 'Tottenham Hale', 'East Finchley', 'Dollis Hill', 'North Wembley', 82.55387847930878]
+Execution time newLine: 9.369
+89.78304553118583
+123417
+89.78304553118583
+82.14076949297349
+119585
+82.14076949297349
+85.19580897830055
+125972
+85.19580897830055
+82.5805364701813
+124735
+82.5805364701813
+83.72312696102743
+122191
+83.72312696102743
+83.72312696102743
+121662
+83.72312696102743
+88.29244322874548
+125101
+88.29244322874548
+88.27919052308683
+147239
+88.27919052308683
+88.37839497597545
+119229
+88.37839497597545
+85.63095880640778
+122510
+85.63095880640778
+max: 89.78304553118583
+min: 82.14076949297349
+average 85.77274019289116
